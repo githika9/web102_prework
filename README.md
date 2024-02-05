@@ -28,7 +28,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](assets/video2678017313.mp4)
+<img src='https://drive.google.com/file/d/1bIXSCKtn_Evvc63uzLKcrLyXjd0hYkHR/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
 
 <!-- Replace this with whatever GIF tool you used! -->
